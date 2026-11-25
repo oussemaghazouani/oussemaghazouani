@@ -58,7 +58,7 @@ public class SoftwareEngineer {
 | Project | Stack | Description |
 |---|---|---|
 | **[Portfolio](https://oussemaghazouani.github.io)** | HTML · CSS · JS | Bilingual (EN/FR) responsive portfolio |
-| **[SaaS Client](https://github.com/oussemaghazouani/saas-clients-project)** | Spring Boot · React · Docker | Platform for IT service providers and their clients: projects, billing, support, analytics |
+| **SaaS Client** | Spring Boot · React · Docker | Platform for IT service providers and their clients: projects, billing, support, analytics |
 | **AI Support Ticketing SaaS** | Spring Boot · Angular · FastAPI · LLM | Final-year project — smart ticket triage, sentiment analysis, RAG chatbot |
 | **Speedy GO** | Spring Boot · Angular · MySQL | Transport & logistics platform: orders, delivery tracking, secured REST API |
 
